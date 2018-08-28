@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e379cfaad3cece04084624634daa6b82, type: 3}
+  m_Name: Bodhisattva Manjusri
+  m_EditorClassIdentifier: 
+  s_prefab: {fileID: 1967421712197972, guid: a00f8c6d02a96bc49b24be29508df275, type: 2}
+  s_icon: {fileID: 21300000, guid: 4c260aa2301918f418d5f716074190bf, type: 3}
+  description: BOSDK

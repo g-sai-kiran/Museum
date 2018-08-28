@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e379cfaad3cece04084624634daa6b82, type: 3}
+  m_Name: Nandi
+  m_EditorClassIdentifier: 
+  s_prefab: {fileID: 1859318180257654, guid: 06260bc86e1c47b44b6365715fc61486, type: 2}
+  s_icon: {fileID: 21300000, guid: 697a0c435bfa3ac418df1603471cf51a, type: 3}
+  description: 
